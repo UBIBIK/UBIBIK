@@ -4,9 +4,9 @@
 
 <br />
 
-# 👋 안녕하세요, 개발자 [이름]입니다!
+# 👋 안녕하세요, 새로운 개발자 최우빈입니다!
 
-🎓 컴퓨터공학을 전공한 졸업생으로, 웹 및 모바일 앱 개발에 열정을 가지고 있습니다. 학업 과정에서 사용자 친화적이며 확장 가능한 애플리케이션을 개발하는 데 필요한 기술을 익혔으며, 프론트엔드와 백엔드 모두에서 다양한 프로젝트 경험을 쌓았습니다.
+🎓 컴퓨터공학을 전공한 졸업생(예정)으로, 웹 및 모바일 앱 개발에 열정을 가지고 있습니다. 학업 과정에서 사용자 친화적이며 확장 가능한 애플리케이션을 개발하는 데 필요한 기술을 익혔으며, 프론트엔드와 백엔드 모두에서 다양한 프로젝트 경험을 쌓았습니다.
 
 🌐 **주요 기술**:
 
@@ -28,8 +28,25 @@
 - **DevOps & 클라우드**  
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-🚀 **프로젝트 하이라이트**:
+🚀 **프로젝트**:
 1. **[프로젝트 이름 - 예: Guardian Go]** - 보호 대상자의 안전한 경로 이동을 지원하는 실시간 위치 공유 모바일 웹앱.
+  
 2. **[프로젝트 이름 - 예: 목포와]** - Mokpo의 안전 지수를 기반으로 안전한 경로를 보여주는 웹 애플리케이션. Google Maps API와 geoJSON 데이터 활용.
+  > 목포의 안전한 여행을 위한 플래너 앱_(한국관광공사 TourAPI 출품작)_
+>
+> - 개발기간 : 2024.06.25-10.01
+> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
+>
+>> Back-end
+>> - Language : python3, java
+>> - Skill : Django, Django-rest-framework, PostgreSQL
+>> 
+>> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
+>
+>> Front-end
+>> - Language : javascript
+>> - Skill : React.js
+>>
+>> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
 💡 사람들에게 더 스마트한 사용자 경험을 제공하기 위해 AI/ML을 통합하는 데 관심이 많으며, 실질적인 영향을 줄 수 있는 애플리케이션 개발에 열정적입니다.
