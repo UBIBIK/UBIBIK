@@ -35,18 +35,6 @@
   > 목포의 안전한 여행을 위한 플래너 앱_(한국관광공사 TourAPI 출품작)_
 >
 > - 개발기간 : 2024.06.25-10.01
-> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
->
->> Back-end
->> - Language : python3, java
->> - Skill : Django, Django-rest-framework, PostgreSQL
->> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
->
->> Front-end
->> - Language : javascript
->> - Skill : React.js
->>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+> - 포트폴리오 계속 수정중에 있습니다.
 
 💡 사람들에게 더 스마트한 사용자 경험을 제공하기 위해 AI/ML을 통합하는 데 관심이 많으며, 실질적인 영향을 줄 수 있는 애플리케이션 개발에 열정적입니다.
