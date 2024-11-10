@@ -22,12 +22,11 @@
 
 - **백엔드**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 - **DevOps & 클라우드**  
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 
 🚀 **프로젝트 하이라이트**:
 1. **[프로젝트 이름 - 예: Guardian Go]** - 보호 대상자의 안전한 경로 이동을 지원하는 실시간 위치 공유 모바일 웹앱.
