@@ -43,6 +43,5 @@
    - 사용 기술(백엔드): Flask, Google Cloud Platform, Spring Boot, Firebase
    - 주요 기능: 실시간 위치 공유, 여행 일정 관리, 여행 경로 추천, 관광지 및 행사 일정
    - 핵심 역할 : 팀장/ 프론트엔드 및 안전지수 개발, 외부 서버 관리(GCP)
-   - [프로젝트 상세 설명](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
 💡 사람들에게 더 스마트한 사용자 경험을 제공하기 위해 AI/ML을 통합하는 데 관심이 많으며, 실질적인 영향을 줄 수 있는 애플리케이션 개발에 열정적입니다.
