@@ -29,12 +29,20 @@
   ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 🚀 **프로젝트**:
-1. **[프로젝트 이름 - 예: Guardian Go]** - 보호 대상자의 안전한 경로 이동을 지원하는 실시간 위치 공유 모바일 웹앱.
+1. **[Guardian Go]** - 보호 대상자를 위한 실시간 위치 공유 앱으로, 안전한 경로 제안과 사진 기반 안전 요소 보고 기능을 통해 사용자들의 안전을 보장하는 웹앱.
+   - 사용 기술(프론트엔드): Node.js, JavaScript 및 HTML/CSS, geoJSON, Google Maps API
+   - 사용 기술(백엔드): Flask, Google Cloud Platform, Spring Boot, Firebase
+   - 주요 기능: 실시간 위치 공유, 안전 경로 추천, 사진 기반 위험 요소 신고, 그룹 관리
+   - 핵심 역할 : 팀장/ 사용자UI와 프론트엔드 제작, 안전 경로 추천을 위한 python3기반 flask서버 제작, 외부 서버 관리(GCP)
+   - [프로젝트 상세 설명](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+   - [직접 사용해보기](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
   
-2. **[프로젝트 이름 - 예: 목포와]** - Mokpo의 안전 지수를 기반으로 안전한 경로를 보여주는 웹 애플리케이션. Google Maps API와 geoJSON 데이터 활용.
-  > 목포의 안전한 여행을 위한 플래너 앱_(한국관광공사 TourAPI 출품작)_
->
-> - 개발기간 : 2024.06.25-10.01
-> - 포트폴리오 계속 수정중에 있습니다.
+2. **[프로젝트 이름 - 예: 목포와]** - 목포를 방문하는 관광객의 안전한 여행을 위한 여행 경로 추천 플래너 앱.
+   - 한국관광공사 2024 관광데이터 활용 공모전 출품작
+   - 사용 기술(프론트엔드): java, geoJSON, Google Maps API, TourAPI 4.0
+   - 사용 기술(백엔드): Flask, Google Cloud Platform, Spring Boot, Firebase
+   - 주요 기능: 실시간 위치 공유, 여행 일정 관리, 여행 경로 추천, 관광지 및 행사 일정
+   - 핵심 역할 : 팀장/ 프론트엔드 및 안전지수 개발, 외부 서버 관리(GCP)
+   - [프로젝트 상세 설명](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
 💡 사람들에게 더 스마트한 사용자 경험을 제공하기 위해 AI/ML을 통합하는 데 관심이 많으며, 실질적인 영향을 줄 수 있는 애플리케이션 개발에 열정적입니다.
