@@ -37,7 +37,7 @@
    - [프로젝트 상세 설명](https://github.com/UBIBIK/GuardianGo-HTML)
    - [직접 사용해보기](https://mokpo-safety.netlify.app/)
   
-2. **[프로젝트 이름 - 예: 목포와]** - 목포를 방문하는 관광객의 안전한 여행을 위한 여행 경로 추천 플래너 앱.
+2. **[목포와]** - 목포를 방문하는 관광객의 안전한 여행을 위한 여행 경로 추천 플래너 앱.
    - 한국관광공사 2024 관광데이터 활용 공모전 출품작
    - 사용 기술(프론트엔드): java, geoJSON, Google Maps API, TourAPI 4.0
    - 사용 기술(백엔드): Flask, Google Cloud Platform, Spring Boot, Firebase
