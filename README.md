@@ -34,8 +34,8 @@
    - 사용 기술(백엔드): Flask, Google Cloud Platform, Spring Boot, Firebase
    - 주요 기능: 실시간 위치 공유, 안전 경로 추천, 사진 기반 위험 요소 신고, 그룹 관리
    - 핵심 역할 : 팀장/ 사용자UI와 프론트엔드 제작, 안전 경로 추천을 위한 python3기반 flask서버 제작, 외부 서버 관리(GCP)
-   - [프로젝트 상세 설명](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
-   - [직접 사용해보기](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+   - [프로젝트 상세 설명](https://github.com/UBIBIK/GuardianGo-HTML)
+   - [직접 사용해보기](https://mokpo-safety.netlify.app/)
   
 2. **[프로젝트 이름 - 예: 목포와]** - 목포를 방문하는 관광객의 안전한 여행을 위한 여행 경로 추천 플래너 앱.
    - 한국관광공사 2024 관광데이터 활용 공모전 출품작
